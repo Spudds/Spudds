@@ -3,9 +3,9 @@
 
 - I’m currently working on pretty much nothing because my ADHD is too bad LMAO
 - I’m currently learning GO and CSS (properly) because why the fuck not lol
+- I mainly use Python for pretty much everything and make all my repos private 
 - Please don't ask me any kind of question I am retarded 
-- 📫 How to reach me: ...
-- Fun fact: I live in South West England and have a dog. I can also speak a pretty decent amount of Norwegian :flag_nb:
+- Fun fact: I live in South West England and have a dog. I can also speak a pretty decent amount of Norwegian 🇳🇴
 
 
 Ways to contact me:
