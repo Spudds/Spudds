@@ -11,3 +11,5 @@ Ways to contact me:
 
 
 Why would you want to do that.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Spudds)](https://github.com/anuraghazra/github-readme-stats)
