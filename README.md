@@ -1,4 +1,4 @@
-### Hello MATE
+## Hello MATE
 
 
 - I’m currently working on pretty much nothing because my ADHD is too bad LMAO
@@ -7,7 +7,7 @@
 - Please don't ask me any kind of question I am retarded 
 
 
-## Ways to contact me:
+### Ways to contact me:
 
 ##### Discord - 
 Spud#0001
