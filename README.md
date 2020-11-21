@@ -7,6 +7,11 @@
 - Please don't ask me any kind of question I am retarded 
 
 
-Ways to contact me:
-Why would you want to do that.
+## Ways to contact me:
+
+# Discord - 
+Spud#0001
+
+# Telegram -
+@Spudpp
 
