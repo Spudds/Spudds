@@ -12,6 +12,6 @@
 ##### Discord - 
 Spud#0001
 
-###### Telegram -
+##### Telegram -
 @Spudpp
 
