@@ -8,7 +8,5 @@
 
 
 Ways to contact me:
-
-
 Why would you want to do that.
 
