@@ -9,9 +9,9 @@
 
 ## Ways to contact me:
 
-# Discord - 
+##### Discord - 
 Spud#0001
 
-# Telegram -
+###### Telegram -
 @Spudpp
 
