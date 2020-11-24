@@ -1,4 +1,4 @@
-## Hello MATE
+## Hello mi amigos
 
 
 - I’m currently working on pretty much nothing because my ADHD is too bad lol
